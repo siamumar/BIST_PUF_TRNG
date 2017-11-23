@@ -12,3 +12,4 @@ Folders:
   
 -MAT_SIM: Matlab simulation files
   
+-ZippedISEProjectVirtex6: Complete ISE project to run test on PUF. It uses [Simple Interface for Reconfigurable Computing (SIRC)](https://www.microsoft.com/en-us/download/details.aspx?id=52527) to transfer test results to the computer. 
